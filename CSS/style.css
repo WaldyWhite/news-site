@@ -6,7 +6,7 @@ body{
 /* ----- header ----- */
 .head-main{
     height: 400px;
-    background: url('https://pixabay.com/get/g5d9ff20860a016de1fb0f74736a301c74c2f1c18bb3a201090e5179fc6b8bf302c294dd3462e3e268851634c5f990459.jpg') center no-repeat;
+    background: url('https://cdn.pixabay.com/photo/2022/12/23/16/03/sunrise-7674594_960_720.jpg') center no-repeat;
     background-size: cover;
 }
 .head-caption-first{
