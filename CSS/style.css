@@ -9,19 +9,32 @@ body{
     background: url('https://pixabay.com/get/g5d9ff20860a016de1fb0f74736a301c74c2f1c18bb3a201090e5179fc6b8bf302c294dd3462e3e268851634c5f990459.jpg') center no-repeat;
     background-size: cover;
 }
-.head-caption{
-    padding-top: 175px;
+.head-caption-first{
+
+    position: relative;
+    top: 155px;
+    right: 63px;
     align-items: center;
     justify-content: center;
     display: flex;
-}
-
-.caption{
-    text-shadow: 2px 2px 10px #fda964;
-    font-size: 4rem;
+    text-shadow: 2px 2px 8px #fda964;
+    font-size: 1.5rem;
     color: #fda964;
     opacity: 0.5;
 }
+.head-caption-second{
+    margin-top: 50px;
+    position: relative;
+    top: 20px;
+    left: 63px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    text-shadow: 2px 2px 10px #fda964;
+    font-size: 2rem;
+    color: #fda964;
+    opacity: 0.6;
+}   
 .navi{
     margin-top: -20px;
 }
