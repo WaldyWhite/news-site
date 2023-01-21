@@ -83,9 +83,7 @@ main .news:nth-child(-n+2) h2::before{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     padding: 50px 0 32px;
 }
-article:hover{
-    opacity: 0.6;
-}
+
 .news p{
     font-size: 1.2rem;
 }
